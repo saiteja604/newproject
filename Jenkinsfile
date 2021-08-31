@@ -3,7 +3,7 @@ pipeline {
   stages {
       stage('Pull') {
          steps {
-             git 'https://github.com/Devops-trainer1987/ctsproj1.git'
+             git 'https://github.com/saiteja604/newproject.git'
          }
       }
      /* stage('Compile') {
